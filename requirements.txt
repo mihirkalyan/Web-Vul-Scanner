@@ -1,0 +1,6 @@
+pytest>=7.0.0
+pytest-asyncio>=0.20.0
+pydantic>=2.0.0
+python-multipart>=0.0.6
+beautifulsoup4>=4.11.0
+aiofiles>=23.0.0
