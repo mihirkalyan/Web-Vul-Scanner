@@ -123,7 +123,7 @@ Extensible plugin architecture with types:
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/mihirkalyan/Web-Vul-Scanner.git
 cd Web-Vul-Scanner
 
 # Install dependencies
